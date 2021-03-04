@@ -14,15 +14,27 @@ nav {
 	justify-content: space-around;
 }
 	
+.nav-left {
+	list-style-type: none;
+}
+
+.nav-right {
+	display: flex;
+	list-style-type: none;
+}
+
+.nav-links {
+	display: flex;
+	justify-content: space-around;
+}
 
 
 
-
-
+/*
 <div class="nav-left">
 	<li>+800-2345-6789</li>
 </div>
-	
+
 <div class="nav-right">
 	<div class="nav-links">
 	<li>MY ACCOUNT</li>
@@ -38,4 +50,4 @@ nav {
 </div>
 <div class="nav-search">
 	<input type="text" placeholder="SEARCH STORE">
-	<button type="button">IMG</button>
+	<button type="button">IMG</button>*/
