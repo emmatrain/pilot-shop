@@ -1,0 +1,41 @@
+* {
+   box-sizing: border-box;
+}
+
+body {
+   margin: 0;
+   font-family: "open sans";
+}
+
+nav {
+	background-colour:#F6F6F6;
+	color: #A8A8A9;
+	display: flex;
+	justify-content: space-around;
+}
+	
+
+
+
+
+
+<div class="nav-left">
+	<li>+800-2345-6789</li>
+</div>
+	
+<div class="nav-right">
+	<div class="nav-links">
+	<li>MY ACCOUNT</li>
+	<li>WISHLIST</li>
+	<li>CHECKOUT</li>
+</div>
+<div class="nav-currency">
+	<li>USD</li>
+</div>
+<div class="nav-cart">
+	<img src="">
+	<li>CART 0</li>
+</div>
+<div class="nav-search">
+	<input type="text" placeholder="SEARCH STORE">
+	<button type="button">IMG</button>
